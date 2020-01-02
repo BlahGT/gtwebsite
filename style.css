@@ -1,10 +1,14 @@
-'
+*
 {
 margin: 0;
 padding: 0;
 
-  }
+}
 body
 {
 font-family: sans-serif;
+}
+.lel
+{
+  background-image: linear-gradient(#c847f1,#380231);
 }
